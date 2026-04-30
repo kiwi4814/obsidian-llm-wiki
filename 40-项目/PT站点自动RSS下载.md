@@ -4,7 +4,7 @@
 类型: 项目
 创建时间: 2026-04-30
 来源: "[[00-收集箱/Telegram/2026-04-30-1632-PT站点自动RSS下载]]"
-标签: [PT, RSS, qBittorrent, Python, 自动化]
+tags: [PT, RSS, qBittorrent, Python, 自动化]
 ---
 
 # PT 站点自动 RSS 下载 + 自动整理
