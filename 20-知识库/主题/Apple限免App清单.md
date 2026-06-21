@@ -260,10 +260,27 @@ tags:
 
 ---
 
+### Stable - Video Stabilizer / 视频防抖稳定器
+
+| 字段 | 内容 |
+|------|------|
+| App名称 | Stable - Video Stabilizer / 视频防抖稳定器 |
+| 平台 | iOS / macOS |
+| 商店地址 | [App Store](https://apps.apple.com/us/app/stable-video-stabilizer/id6479000660) |
+| 解锁类型 | 本体限免 |
+| App说明 | 视频防抖稳定器，解决跑步或移动录制时的画面抖动问题 |
+| 解锁说明 | 本体限免，直接下载 |
+| 解锁限制 | 需 iOS 15.0 / macOS 12.0；支持英文 |
+| 原价 | $4.99 |
+| 来源 | @TossTI / @TossTF |
+| 收录时间 | 2026-06-21 |
+
+---
+
 ## 统计
 
-- 总收录：13 款
-- iOS：12 款
+- 总收录：14 款
+- iOS：13 款
 - macOS：1 款（WebDAV Lite）
 - iPadOS 支持：5 款（AI Lecture Note Taker、Authenticator、Taskscope、时光、FlowClock）
 
