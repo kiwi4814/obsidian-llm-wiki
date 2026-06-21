@@ -243,12 +243,29 @@ tags:
 
 ---
 
+### FlowClock - Standby Clock / 流光时钟
+
+| 字段 | 内容 |
+|------|------|
+| App名称 | FlowClock - Standby Clock / 流光时钟 |
+| 平台 | iOS / iPadOS / macOS |
+| 商店地址 | [App Store](https://apps.apple.com/app/id6755359506) |
+| 解锁类型 | 内购限免 |
+| App说明 | 动态背景待机时钟，可自定义动态背景、时钟样式、颜色、字体和位置，适合作为桌面、床头或屏保 |
+| 解锁说明 | 跳过首页引导进入应用内解锁 |
+| 解锁限制 | 需 iOS 17 / iPadOS 17 / macOS 14；支持中文 |
+| 原价 | $16.99 |
+| 来源 | @TossTI / @TossTF |
+| 收录时间 | 2026-06-21 |
+
+---
+
 ## 统计
 
-- 总收录：12 款
-- iOS：11 款
+- 总收录：13 款
+- iOS：12 款
 - macOS：1 款（WebDAV Lite）
-- iPadOS 支持：4 款（AI Lecture Note Taker、Authenticator、Taskscope、时光）
+- iPadOS 支持：5 款（AI Lecture Note Taker、Authenticator、Taskscope、时光、FlowClock）
 
 ## 待确认
 
