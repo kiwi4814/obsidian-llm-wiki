@@ -277,10 +277,27 @@ tags:
 
 ---
 
+### SlidePhoto
+
+| 字段 | 内容 |
+|------|------|
+| App名称 | SlidePhoto |
+| 平台 | iOS |
+| 商店地址 | [App Store](https://apps.apple.com/us/app/slidephoto-swipe-clean-deleter/id6756079954) |
+| 解锁类型 | 买断永久 Pro 会员 |
+| App说明 | 像 TikTok 一样整理相册，上滑删除、下滑保存，支持相似照片识别 |
+| 解锁说明 | 下方菜单栏人头👤 → 页面最上方横幅点 PRO → 选择右边的终身限免（注意别选错） |
+| 解锁限制 | 需 iOS 13.0+ |
+| 原价 | 未知（当前 $0） |
+| 来源 | @me888888888888 |
+| 收录时间 | 2026-06-21 |
+
+---
+
 ## 统计
 
-- 总收录：14 款
-- iOS：13 款
+- 总收录：15 款
+- iOS：14 款
 - macOS：1 款（WebDAV Lite）
 - iPadOS 支持：5 款（AI Lecture Note Taker、Authenticator、Taskscope、时光、FlowClock）
 
