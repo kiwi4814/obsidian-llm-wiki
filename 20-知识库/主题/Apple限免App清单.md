@@ -175,13 +175,82 @@ tags:
 
 ---
 
+### AI Lecture Note Taker / AI 转录笔记助手
+
+| 字段 | 内容 |
+|------|------|
+| App名称 | AI Lecture Note Taker / AI 转录笔记助手 |
+| 平台 | iOS / iPadOS / macOS |
+| 商店地址 | [App Store](https://apps.apple.com/app/id1624460253) |
+| 解锁类型 | 本体限免 |
+| App说明 | AI 讲义笔记收集器，实时录制、转录并总结演讲，支持多语言，语音转文字完全离线运行 |
+| 解锁说明 | 本体限免，直接下载 |
+| 解锁限制 | 需 iOS 16+；支持英文 |
+| 原价 | $10.99 |
+| 来源 | @TossTI / @TossTF |
+| 收录时间 | 2026-06-21 |
+
+---
+
+### Anniversary-Birthday Reminder / 纪念日提醒应用
+
+| 字段 | 内容 |
+|------|------|
+| App名称 | Anniversary-Birthday Reminder / 纪念日提醒应用 |
+| 平台 | iOS / macOS |
+| 商店地址 | [App Store](https://apps.apple.com/app/id6772791871) |
+| 解锁类型 | 内购限免 |
+| App说明 | 生日、周年纪念日、农历节日倒计时；通话情感日志；小工具和 iCloud 同步 |
+| 解锁说明 | 跳过首页引导进入应用内解锁 |
+| 解锁限制 | 需 iOS 17 / macOS 14；支持中文 |
+| 原价 | $6.99 |
+| 来源 | @TossTI / @TossTF |
+| 收录时间 | 2026-06-21 |
+
+---
+
+### Authenticator / 身份验证器
+
+| 字段 | 内容 |
+|------|------|
+| App名称 | Authenticator / 身份验证器 |
+| 平台 | iOS / iPadOS / macOS |
+| 商店地址 | [App Store](https://apps.apple.com/app/id6769224166) |
+| 解锁类型 | 内购限免 |
+| App说明 | 2FA 身份验证器，适合个人用户、电商卖家、开发者和企业用户，让账号安全简单可靠 |
+| 解锁说明 | 跳过首页引导进入应用内解锁 |
+| 解锁限制 | 需 iOS 17 / iPadOS 17 / macOS 14；支持中文 |
+| 原价 | $16.99 |
+| 来源 | @TossTI / @TossTF |
+| 收录时间 | 2026-06-21 |
+
+---
+
+### Taskscope / 任务清单规划管理器
+
+| 字段 | 内容 |
+|------|------|
+| App名称 | Taskscope / 任务清单规划管理器 |
+| 平台 | iOS / iPadOS / macOS |
+| 商店地址 | [App Store](https://apps.apple.com/app/id6768471474) |
+| 解锁类型 | 本体限免 |
+| App说明 | 功能齐全的任务管理工具，内置项目规划功能 |
+| 解锁说明 | 本体限免，直接下载 |
+| 解锁限制 | 需 iOS 17.6 / iPadOS 17.6 / macOS 15.6；支持英文 |
+| 原价 | $10.99 |
+| 来源 | @TossTI / @TossTF |
+| 收录时间 | 2026-06-21 |
+
+---
+
 ## 统计
 
-- 总收录：8 款
-- iOS：7 款
-- macOS：1 款
+- 总收录：12 款
+- iOS：11 款
+- macOS：1 款（WebDAV Lite）
+- iPadOS 支持：4 款（AI Lecture Note Taker、Authenticator、Taskscope、时光）
 
 ## 待确认
 
 - WebDAV Lite 原价未知
-- 新增 6 款 App 原价均未知
+- id6764007500 未使用，待确认
