@@ -311,10 +311,27 @@ tags:
 
 ---
 
+### YiKe
+
+| 字段 | 内容 |
+|------|------|
+| App名称 | YiKe |
+| 平台 | iOS |
+| 商店地址 | [App Store](https://apps.apple.com/in/app/yike-light-journaling/id6768877248) |
+| 解锁类型 | 内购限免 |
+| App说明 | 轻量级日记应用，本地存储，动态流式体验，像发布更新一样自然地记录日常生活 |
+| 解锁说明 | 左上角菜单（三横杠）→ 右上角设置 → 解锁 YiKe PRO |
+| 解锁限制 | 需 iOS 17.0+ |
+| 原价 | 未知（当前 $0） |
+| 来源 | @me888888888888 |
+| 收录时间 | 2026-06-22 |
+
+---
+
 ## 统计
 
-- 总收录：16 款
-- iOS：14 款
+- 总收录：17 款
+- iOS：15 款
 - macOS：1 款（WebDAV Lite）
 - tvOS：1 款（ViperTV）
 - iPadOS 支持：5 款（AI Lecture Note Taker、Authenticator、Taskscope、时光、FlowClock）
