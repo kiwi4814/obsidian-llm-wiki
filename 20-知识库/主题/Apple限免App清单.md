@@ -10,7 +10,7 @@ tags:
 来源:
   - Telegram
 创建时间: 2026-06-21
-更新时间: 2026-06-21
+更新时间: 2026-06-22
 摘要: 收集 Apple 全平台（iOS/iPadOS/macOS/watchOS/tvOS）限免 App 信息，统一整理为结构化清单。
 别名:
   - 限免App
@@ -294,11 +294,29 @@ tags:
 
 ---
 
+### ViperTV
+
+| 字段 | 内容 |
+|------|------|
+| App名称 | ViperTV |
+| 平台 | tvOS |
+| 商店地址 | [App Store](https://apps.apple.com/us/app/vipertv/id6747088331) |
+| 解锁类型 | 本体限免 |
+| App说明 | 沙罗曼蛇风格飞行射击游戏，遥控器左/右/上/下控制 Viper 移动，播放/暂停键射击武器，选择键选择升级 |
+| 解锁说明 | 本体限免，直接下载 |
+| 解锁限制 | 需 tvOS 15.6+ |
+| 原价 | 未知（当前 $0） |
+| 来源 | @me888888888888 |
+| 收录时间 | 2026-06-22 |
+
+---
+
 ## 统计
 
-- 总收录：15 款
+- 总收录：16 款
 - iOS：14 款
 - macOS：1 款（WebDAV Lite）
+- tvOS：1 款（ViperTV）
 - iPadOS 支持：5 款（AI Lecture Note Taker、Authenticator、Taskscope、时光、FlowClock）
 
 ## 待确认
