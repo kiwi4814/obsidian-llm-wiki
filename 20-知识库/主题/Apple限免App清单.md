@@ -328,13 +328,30 @@ tags:
 
 ---
 
+### Sleep Island: Tracker & Sounds / 睡眠岛
+
+| 字段 | 内容 |
+|------|------|
+| App名称 | Sleep Island: Tracker & Sounds / 睡眠岛 - 打鼾监测·助眠白噪音 |
+| 平台 | iOS / iPadOS / macOS |
+| 商店地址 | [兑换链接](https://apps.apple.com/redeem?id=6747609991&code=SLEEPFREE007) |
+| 解锁类型 | 内购限免 |
+| App说明 | 功能齐全的睡眠管理应用，结合睡眠监测、自动停止睡眠检测、无需佩戴设备的睡眠追踪、记录打鼾/睡眠谈话功能 |
+| 解锁说明 | 跳过首页引导进入应用内解锁 |
+| 解锁限制 | 需 iOS 17.6 / iPadOS 17.6 / macOS 14.6；支持中文 |
+| 原价 | $16.99 |
+| 来源 | @TossTI / @TossTF |
+| 收录时间 | 2026-06-22 |
+
+---
+
 ## 统计
 
-- 总收录：17 款
-- iOS：15 款
-- macOS：1 款（WebDAV Lite）
+- 总收录：18 款
+- iOS：16 款
+- macOS：1 款（WebDAV Lite）；另有 Sleep Island 等跨平台支持 macOS
 - tvOS：1 款（ViperTV）
-- iPadOS 支持：5 款（AI Lecture Note Taker、Authenticator、Taskscope、时光、FlowClock）
+- iPadOS 支持：6 款（AI Lecture Note Taker、Authenticator、Taskscope、时光、FlowClock、Sleep Island）
 
 ## 待确认
 
