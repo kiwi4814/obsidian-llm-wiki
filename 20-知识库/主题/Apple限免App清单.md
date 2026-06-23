@@ -351,10 +351,10 @@ tags:
 |------|------|
 | App名称 | Blanksy – Finish the Sketch / 创意绘画补完 |
 | 平台 | iOS / iPadOS / macOS |
-| 商店地址 | 待补充（消息中超链接丢失） |
+| 商店地址 | [兑换链接](https://apps.apple.com/redeem/?id=6777916815&code=RDDTBLNKSY) |
 | 解锁类型 | 兑换码激活 |
 | App说明 | 创意绘画补完游戏，提供初步草图，由你的想象力填充剩余部分 |
-| 解锁说明 | 使用兑换码激活 |
+| 解锁说明 | 使用兑换码 RDDTBLNKSY 激活 |
 | 解锁限制 | 需 iOS 26.2 / iPadOS 26.2 / macOS 26；支持中文 |
 | 原价 | $24.99 |
 | 来源 | @TossTI / @TossTF |
