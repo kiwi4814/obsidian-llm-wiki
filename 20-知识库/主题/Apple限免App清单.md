@@ -10,7 +10,7 @@ tags:
 来源:
   - Telegram
 创建时间: 2026-06-21
-更新时间: 2026-06-22
+更新时间: 2026-06-24
 摘要: 收集 Apple 全平台（iOS/iPadOS/macOS/watchOS/tvOS）限免 App 信息，统一整理为结构化清单。
 别名:
   - 限免App
@@ -345,13 +345,30 @@ tags:
 
 ---
 
+### Blanksy – Finish the Sketch / 创意绘画补完
+
+| 字段 | 内容 |
+|------|------|
+| App名称 | Blanksy – Finish the Sketch / 创意绘画补完 |
+| 平台 | iOS / iPadOS / macOS |
+| 商店地址 | 待补充（消息中超链接丢失） |
+| 解锁类型 | 兑换码激活 |
+| App说明 | 创意绘画补完游戏，提供初步草图，由你的想象力填充剩余部分 |
+| 解锁说明 | 使用兑换码激活 |
+| 解锁限制 | 需 iOS 26.2 / iPadOS 26.2 / macOS 26；支持中文 |
+| 原价 | $24.99 |
+| 来源 | @TossTI / @TossTF |
+| 收录时间 | 2026-06-24 |
+
+---
+
 ## 统计
 
-- 总收录：18 款
-- iOS：16 款
-- macOS：1 款（WebDAV Lite）；另有 Sleep Island 等跨平台支持 macOS
+- 总收录：19 款
+- iOS：17 款
+- macOS：1 款（WebDAV Lite）；另有 Sleep Island、Blanksy 等跨平台支持 macOS
 - tvOS：1 款（ViperTV）
-- iPadOS 支持：6 款（AI Lecture Note Taker、Authenticator、Taskscope、时光、FlowClock、Sleep Island）
+- iPadOS 支持：7 款（AI Lecture Note Taker、Authenticator、Taskscope、时光、FlowClock、Sleep Island、Blanksy）
 
 ## 待确认
 
