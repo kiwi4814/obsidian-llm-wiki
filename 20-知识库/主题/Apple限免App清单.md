@@ -362,13 +362,47 @@ tags:
 
 ---
 
+### Transcription Pro / 离线语音转文字工具
+
+| 字段 | 内容 |
+|------|------|
+| App名称 | Transcription Pro / 离线语音转文字工具 |
+| 平台 | iOS / iPadOS / macOS |
+| 商店地址 | [兑换链接](https://apps.apple.com/redeem/?ctx=offercodes&id=6747905167&code=WHISPER) |
+| 解锁类型 | 兑换码激活 |
+| App说明 | 离线语音转文字工具，支持单独或批量转录音频/视频文件，处理速度快，无需联网，适合转录会议、讲座、电影中的语音内容，对远处扬声器、背景噪音和长录音也能保持可靠效果 |
+| 解锁说明 | 使用兑换码 WHISPER 激活 |
+| 解锁限制 | 需 iOS 26.2 / iPadOS 26.2 / macOS 26；支持中文 |
+| 原价 | $24.99 |
+| 来源 | @TossTI / @TossTF |
+| 收录时间 | 2026-06-24 |
+
+---
+
+### Ollie Timer: Cozy Focus Timer / 水獭专注计时器
+
+| 字段 | 内容 |
+|------|------|
+| App名称 | Ollie Timer: Cozy Focus Timer / 水獭专注计时器 |
+| 平台 | iOS / iPadOS / macOS |
+| 商店地址 | [App Store](https://apps.apple.com/app/id6780442576) |
+| 解锁类型 | 本体限免 |
+| App说明 | 安静的专注计时器，帮助学习、工作、阅读或编程时保持安静环境，选择专注内容开始学习会话，让 Ollie 负责保持座位安静 |
+| 解锁说明 | 本体限免，直接下载 |
+| 解锁限制 | 需 iOS 17 / iPadOS 17 / macOS 14；支持英文 |
+| 原价 | $4.99 |
+| 来源 | @TossTI / @TossTF |
+| 收录时间 | 2026-06-24 |
+
+---
+
 ## 统计
 
-- 总收录：19 款
-- iOS：17 款
-- macOS：1 款（WebDAV Lite）；另有 Sleep Island、Blanksy 等跨平台支持 macOS
+- 总收录：21 款
+- iOS：19 款
+- macOS：1 款（WebDAV Lite）；另有 Sleep Island、Blanksy、Transcription Pro、Ollie Timer 等跨平台支持 macOS
 - tvOS：1 款（ViperTV）
-- iPadOS 支持：7 款（AI Lecture Note Taker、Authenticator、Taskscope、时光、FlowClock、Sleep Island、Blanksy）
+- iPadOS 支持：9 款（AI Lecture Note Taker、Authenticator、Taskscope、时光、FlowClock、Sleep Island、Blanksy、Transcription Pro、Ollie Timer）
 
 ## 待确认
 
